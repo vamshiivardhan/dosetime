@@ -1,3 +1,2 @@
-first branch out of the master
-
-second branch out of the madter
+This is my first Git Repostory
+Author-Vamshi
